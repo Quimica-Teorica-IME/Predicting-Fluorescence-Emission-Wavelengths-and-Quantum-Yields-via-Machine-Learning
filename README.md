@@ -7,7 +7,7 @@ This project applies regression algorithms to predict molecular properties from 
 ├── DATA/                      
 │   ├── Only_qy_data_ML.csv
 │   ├── Only_wl_data_ML.csv
-│   └── Data.csv
+│   └── DB.csv
 │
 ├── Models/                     # Trained models and scalers
 │   ├── QY_Random.pkl
