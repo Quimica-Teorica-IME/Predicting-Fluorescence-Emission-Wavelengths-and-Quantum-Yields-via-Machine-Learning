@@ -3,7 +3,7 @@
 This project applies regression algorithms to predict molecular properties from their **SMILES (Simplified Molecular Input Line Entry System)** representations.
 
 ## 📁 Project Structure
-
+```
 ├── DATA/                      
 │   ├── Only_qy_data_ML.csv
 │   ├── Only_wl_data_ML.csv
@@ -19,7 +19,7 @@ This project applies regression algorithms to predict molecular properties from 
 ├── Prevision.ipynb             # Prediction using trained models
 ├── Regression.ipynb            # Model training and learning curves
 └── .gitattributes              # Git configuration
-
+```
 
 ## 💡 Objective
 
